@@ -3,22 +3,22 @@
 require("../all/module.js")
 
 //========== Setting Owner ==========//
-global.owner = "6289508082845"
-global.idsaluran = "120363201331652484@newsletter"
-global.namaowner = "Koi"
-global.namabot = "おさらぎ"
-global.linkyt = 'https://www.youtube.com/@qyuunee' 
-global.mail = 'cs@neekoi.me' // 
-global.packname = 'Osaragi V2.0'
-global.author = `Date: ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}\nYouTube: QyuuNee\nBot: 0895-3253-44177`
+global.owner = "6283136032257"
+global.idsaluran = "-"
+global.namaowner = "Putra"
+global.namabot = "Putra-Bot"
+global.linkyt = 'https://www.youtube.com/' 
+global.mail = 'cs@boxfi.uk' // 
+global.packname = 'Putra V1.0'
+global.author = `Date: ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}\nYouTube: Nk\nBot: 0831-3603-2257`
 //========== Setting Event ==========//
 global.autoread = true
 global.anticall = true
 global.autoreadsw = false
 
 //========== Setting Foto ===========//
-global.imgreply = "https://files.catbox.moe/sri4cd.jpg"
-global.thumb = "https://files.catbox.moe/toymu7.jpg"
+global.imgreply = "https://files.catbox.moe/14ru0u.webp"
+global.thumb = "https://files.catbox.moe/47i8yx.webp"
 //global.imgmenu = fs.readFileSync("./media/Menu.jpg")
 
 global.domainn = "-"
@@ -38,13 +38,13 @@ global.capikey = '-' // Isi Apikey Pltc Lu
 global.dana = ""
 global.gopay = ""
 global.ovo = ""
-global.qris = "https://files.catbox.moe/betqkm.jpg"
+global.qris = "https://files.catbox.moe/8zseu3.png"
                              
 
 //========= Setting Message =========//
 
 global.msg = {
-    done: '🤗 Done, Oke Desu~',
+    done: '🤗 Done, Oke~',
     wait: '⏳Memproses . . .',
     admin: '❗Perintah Ini Hanya Bisa Digunakan Oleh Admin Group !',
     adminbot: '❗Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin Group !',
